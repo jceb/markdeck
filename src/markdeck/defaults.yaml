@@ -41,7 +41,7 @@ loop: false
 rtl: false
 shuffle: false
 fragments: true
-fragmentsInURL: true
+fragmentInURL: true
 embedded: false
 help: true
 showNotes: false
